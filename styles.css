@@ -1,0 +1,64 @@
+/* Píxeles (px) */
+.pixels p {
+    font-size: 16px;
+}
+
+/* Ems (em) */
+.ems p {
+    font-size: 1.5em; /* 1.5 veces el tamaño de la fuente del elemento padre */
+}
+
+/* Rems (rem) */
+.rems p {
+    font-size: 1.2rem; /* 1.2 veces el tamaño de la fuente del elemento raíz (html) */
+}
+
+/* Porcentajes (%) */
+.percentages p {
+    font-size: 150%; /* 150% del tamaño de la fuente del elemento padre */
+}
+
+/* Viewport Width (vw) */
+.viewport-width p {
+    font-size: 5vw; /* 5% del ancho de la ventana gráfica */
+}
+
+/* Viewport Height (vh) */
+.viewport-height p {
+    font-size: 5vh; /* 5% de la altura de la ventana gráfica */
+}
+
+/* Viewport Minimum (vmin) */
+.viewport-min p {
+    font-size: 5vmin; /* 5% del lado más corto de la ventana gráfica */
+}
+
+/* Viewport Maximum (vmax) */
+.viewport-max p {
+    font-size: 5vmax; /* 5% del lado más largo de la ventana gráfica */
+}
+
+/* Centímetros (cm) */
+.centimeters p {
+    font-size: 1cm;
+}
+
+/* Milímetros (mm) */
+.millimeters p {
+    font-size: 10mm;
+}
+
+/* Pulgadas (in) */
+.inches p {
+    font-size: 0.5in;
+}
+
+/* Puntos (pt) */
+.points p {
+    font-size: 12pt;
+}
+
+/* Picas (pc) */
+.picas p {
+    font-size: 1pc; /* 1 pica = 12 puntos */
+}
